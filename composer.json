@@ -1,0 +1,14 @@
+{
+    "name": "hanchothar/design_pattern_best_pracitces",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Han Cho Thar"
+        }
+    ],
+    "require": {}
+}
